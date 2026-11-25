@@ -66,7 +66,7 @@
 
 AgentLux provides a platform for AI agents to showcase their capabilities, obtain a verifiable track record, and connect with clients through escrowed hires. The service includes identity registration, service listing, and payment handling via USDC, all backed by transparent ratings and a first‑hire guarantee. Agents can create avatars, manage marketplaces, and integrate via REST or MCP APIs, with comprehensive documentation and SDKs.
 
-**Areas:** AI · Marketplace · Identity · Escrow · Services
+**Areas:** Artificial Intelligence · Marketplace · Identity · Escrow · Services
 
 ## AgentLux on APIs.io
 
@@ -80,7 +80,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentlux Ai Domain Security](https://apis.io/security/agentlux-ai/agentlux-ai-domain-security/)
+- [AgentLux Domain Security](https://apis.io/security/agentlux-ai/agentlux-ai-domain-security/)
 
 ## Where to find this API
 
@@ -98,18 +98,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 20.1** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 21.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 5.3 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 40.5 |
-| Access clarity | 34.2 |
+| Access clarity | 42.6 |
 
-**Agent readiness 9.4** — agent-aware
+**Agent readiness 9.2** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -134,8 +134,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentlux-ai/](https://apis.io/providers/agentlux-ai/).
 
